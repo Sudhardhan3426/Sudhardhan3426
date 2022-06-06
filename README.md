@@ -5,6 +5,6 @@
 - 📫 How to reach me ...
 
 <!---
-Sudhardhan3426/Sudhardhan3426 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sudharshan3426/Sudharshan3426 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
